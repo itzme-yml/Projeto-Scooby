@@ -1,0 +1,54 @@
+{
+    "recorde": 1170,
+    "moedas": 369,
+    "arcos_comprados": [
+        "classico",
+        "pastel"
+    ],
+    "arco_equipado": "pastel",
+    "estilos_arco_comprados": [
+        "classico",
+        "estrelas"
+    ],
+    "estilo_arco_equipado": "estrelas",
+    "coleiras_compradas": [
+        "nenhuma"
+    ],
+    "coleira_equipada": null,
+    "cores_personalizadas": [
+        [
+            255,
+            45,
+            75
+        ],
+        [
+            255,
+            135,
+            35
+        ],
+        [
+            255,
+            220,
+            40
+        ],
+        [
+            50,
+            210,
+            110
+        ],
+        [
+            45,
+            150,
+            255
+        ],
+        [
+            150,
+            75,
+            255
+        ]
+    ],
+    "estilos_comprados": [
+        "classico"
+    ],
+    "estilo_equipado": "classico"
+}

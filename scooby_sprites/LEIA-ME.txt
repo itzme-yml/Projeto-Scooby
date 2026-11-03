@@ -1,0 +1,16 @@
+SPRITES DO SCOOBY - PYGAME
+
+Pastas:
+- parado: animação de respiração/parado
+- voando: corrida no ar
+- pulando: poses de salto
+- machucado: animação de dano
+- comemorando: comemoração ao pegar item
+- expressoes: poses extras
+
+Os PNGs foram recortados da folha e o fundo vinho foi removido por aproximação.
+Confira os quadros visualmente; alguns pixels avermelhados do personagem podem ter ficado transparentes.
+Copie a pasta 'scooby_sprites' para a mesma pasta do main.py.
+
+No Pygame, carregue os quadros com:
+frames_parado = [pygame.image.load(f"scooby_sprites/parado/parado_{i:02d}.png").convert_alpha() for i in range(1, 5)]
